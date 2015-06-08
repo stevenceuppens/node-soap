@@ -7,7 +7,7 @@
   },
   "author": "Vinay Pulim <v@pulim.com>",
   "dependencies": {
-    "agentkeepalive": "^0.2.2",
+    "agentkeepalive": "^2.0.0",
     "httpntlm": "^1.2.0",
     "httpreq": "^0.3.9",
     "lodash": "~2.4.1",
